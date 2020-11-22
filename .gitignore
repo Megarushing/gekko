@@ -45,6 +45,7 @@ TMP_*
 .idea
 volumes
 config.js
+update.sh
 config-*.js
 private-*.js
 private-*.toml

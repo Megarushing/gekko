@@ -1,3 +1,5 @@
+This fork offers a slight modification of Gekko with my added strategies, feel free to use it as a guide on how to add new strategies or indicators to your bot
+
 # This repo is not maintained anymore
 
 I am officially not maintaining this project anymore. It was an amazing journey and I want to thank everyone for

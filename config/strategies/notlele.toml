@@ -1,0 +1,15 @@
+#NOTLELE avoids you to do shit during volatile markets, it does just the oposite of a panic sell or FOMO, 1 hour candles are recommended but feel free to experiment
+
+#looking 8 days behind seems awesome
+daysbehind = 8
+#how many hours behind are considered recent fluctuations
+recenthours = 10
+#ignore these most recent hours when checking mins and maxs
+ignoremostrecenthours = 2
+
+#percentage to pass last x days top/bottom in order to generate signal, 0.07 is optimal for 8 days
+tpspace = 0.07
+stopspace = 0.07
+#protect my moonah in case of huge falls on market
+disablebotunderprice = 0
+
